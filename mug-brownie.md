@@ -1,6 +1,11 @@
 I love this recipe, because it's so simple to make.
 
+<<<<<<< Updated upstream
 I have a great story about the tiem i discovered this recipe.
+=======
+I came across it one afternoon whilst hiking through the Scottish Highlands. I fund a small house upon a hill. 
+
+>>>>>>> Stashed changes
 What you need
 =============
 
